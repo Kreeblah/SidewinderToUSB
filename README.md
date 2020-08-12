@@ -7,4 +7,11 @@ The compiled code to use with this project is available at https://code.google.c
 
 Gameport part taken from https://github.com/shadwork/Arduino-PC-Gameport-HID/blob/master/Schematic/DB15%20Connector.fzpz
 
-I've never laid out a PCB before, so this may have issues.  I'm currently waiting on my boards and parts in order to be able to test.
+I've never laid out a PCB before, so this may have issues (the layout is also extremely amateurish).  I'm currently waiting on my boards and parts in order to be able to test.
+
+Component list for building:
+- 1x Teensy 2.0
+- 1x DA-15 port (the gameport) with a right-angle connector
+- 2x 2.2k ohm resistors
+- 1x 220 ohm resistor
+- 2x 1000pF capacitors
