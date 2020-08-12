@@ -12,6 +12,6 @@ I've never laid out a PCB before, so this may have issues (the layout is also ex
 Component list for building:
 - 1x Teensy 2.0
 - 1x DA-15 port (the gameport) with a right-angle connector
-- 2x 2.2k ohm resistors (R1 and R2)
-- 1x 220 ohm resistor (R3)
-- 2x 1000pF capacitors (C1 and C2)
+- 2x 2.2k ohm resistors, 1/4W, 5% or better (R1 and R2)
+- 1x 220 ohm resistor, 1/4W, 5% or better (R3)
+- 2x 1000pF non-polarized capacitors (C1 and C2)
