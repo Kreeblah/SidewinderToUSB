@@ -7,7 +7,7 @@ The compiled code to use with this project is available at https://code.google.c
 
 Gameport part taken from https://github.com/shadwork/Arduino-PC-Gameport-HID/blob/master/Schematic/DB15%20Connector.fzpz
 
-I've never laid out a PCB before, so this may have issues (the layout is also extremely amateurish).  I'm currently waiting on my boards and parts in order to be able to test.
+I'd never laid out a PCB before when I put this together, so the layout is super amateurish.  It does, however, work.
 
 Component list for building:
 - 1x Teensy 2.0
